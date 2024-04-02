@@ -1,10 +1,4 @@
 
-<!-- PROJECT LOGO -->
-<p align="center">
-  <h3 align="center">Flutter Grocery App</h3>
-</p>
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <!-- GETTING STARTED -->
 ## Getting Started
